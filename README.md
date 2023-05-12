@@ -19,4 +19,4 @@ npm run build
 npm run deploy
 
 ## The published To-do App:
-https://sateesh2202.github.io/react-using-todolist
+https://sateesh2202.github.io/react-using-todolist/
